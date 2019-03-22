@@ -1,1 +1,0 @@
-Meeting.create({title: "Animals", agenda: "Are animals coming up with meetings??", time: "A quarter past noon-ish"})
